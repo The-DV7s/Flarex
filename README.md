@@ -36,4 +36,4 @@ FlareX Client is a game enhancement tool designed to optimize performance, boost
 In conclusion, FlareX Client is a powerful tool for gamers seeking to enhance their gaming performance, boost FPS, and achieve a smoother gameplay experience, especially in games like Minecraft. With its array of features, customization options, and performance benefits, FlareX Client aims to elevate the gaming experience for users looking to optimize their gameplay quality.
 
                                       
-** Games we support ** : Minecraft PE , Minecraft Java , Minecraft BE Minecraft ALL Editions.
+**Games we support** : Minecraft PE , Minecraft Java , Minecraft BE Minecraft ALL Editions.
