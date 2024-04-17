@@ -1,4 +1,4 @@
-[Flarex Logo](https://i.ibb.co/Mkv02CK/OIG4.jpg)
+![Flarex Logo](https://i.ibb.co/Mkv02CK/OIG4.jpg)
                                          
                                          
                                          FlareX Client
