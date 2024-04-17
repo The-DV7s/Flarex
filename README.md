@@ -1,3 +1,6 @@
+[Flarex Logo](https://i.ibb.co/Mkv02CK/OIG4.jpg)
+                                         
+                                         
                                          FlareX Client
 
 The Best FPS Boosting Client you can get!
