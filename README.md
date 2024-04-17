@@ -1,4 +1,4 @@
-![Flarex Logo](https://i.ibb.co/Mkv02CK/OIG4.jpg)    Official Flarex Website : [ https://flare.x/ ](<https://flarex.w3spaces.com/>)
+![Flarex Logo](https://i.ibb.co/Mkv02CK/OIG4.jpg)    Official Flarex Website : [ https://flare.x/ ](<https://flarex.w3spaces.com/>)        --> Get client here     Official Github : [ https://flare.x/github ](<https://github.com/xyzkyle/Flarex/>)                  ---> This is so useless
                                          
                                          
                                          FlareX Client
